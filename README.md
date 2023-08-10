@@ -59,9 +59,11 @@ Berdasarkan asumsi di atas maka kita dapat coba kuantifikasi konsekuensinya seba
     - Keuntungan = (950 x 5% x 1) / 12 = **$3,95 perbulan** atau **$47,5 pertahun**
 
 Berdasarkan konsekuensinya, kita merasa bahwa keduanya sama-sama penting untuk diminimalisir, kita akan membuat model yang dapat mengurangi jumlah False Negative dan juga False Positive sehingga metric utama yang akan kita gunakan adalah **F1-score**.
+
 ---
 ## **Untuk proses modeling bisa dilihat pada file .ipynb yang sudah diunggah**
 ---
+
 ## **Conclusion**
 - Model klasifikasi terbaik untuk memprediksi nasabah yang term deposit atau tidak pada dataset ini adalah Gradient Boost dengan metriks f1_score sebesar 0.72
 
